@@ -1,0 +1,12 @@
+version: "3"
+
+services:
+  provider:
+    image: provider:latest
+      
+  client:
+    image: client:latest
+
+
+
+    
